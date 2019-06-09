@@ -1,1 +1,21 @@
+{"version_code":452827,"content":"
+<p> تحديث|Update 0.8A</p>
 
+
+<li> نسخة ضد الحظر ان شاء الله</li>
+<li> التحديث لنسخة الماركت  2.19.159</li>
+<li> تحسينات على ميزة تحميل الحالة/الستوري</li>
+<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
+<li> اصلاح المشاكل السابقة</li>
+
+
+<li> AntiBan (Tested 10 days)</li>
+<li> New Base Updated to 2.19.159 Stable</li>
+<li> Improved Status Downloader</li>
+<li> Enabled All hidden features..</li>
+<li> Fixed all bugs of v0.7.1F</li>
+
+
+
+","url":"https://soula10.blogspot.com/2018/06/wax.html"
+}
