@@ -1,21 +1,12 @@
-{"version_code":452824,"content":"
-<p> تحديث|Update 0.8A</p>
+{"version_code":452826"content":"
+<p>دعم الموقع</p>
+
+<li>رسالة دعم للموقع</li>
+<li>عزيزي المستخدم</li>
+<li>قم بالضغط على تحديث تم تصفح الموقع لبضع دقائق</li>
+<li>ثم قم بالنقر على اي اعلان من الاعلانات</li>
+<li>ادعمنا لنستمر بتطوير النسخة وشكرا</li>
 
 
-<li> نسخة ضد الحظر ان شاء الله</li>
-<li> التحديث لنسخة الماركت  2.19.159</li>
-<li> تحسينات على ميزة تحميل الحالة/الستوري</li>
-<li> تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
-<li> اصلاح المشاكل السابقة</li>
-
-
-<li> AntiBan (Tested 10 days)</li>
-<li> New Base Updated to 2.19.159 Stable</li>
-<li> Improved Status Downloader</li>
-<li> Enabled All hidden features..</li>
-<li> Fixed all bugs of v0.7.1F</li>
-
-
-
-","url":"https://soula10.blogspot.com/2018/06/wax.html"
+","url":"https://www.saifroid.com/2018/06/InstaPro.html"
 }
