@@ -1,5 +1,5 @@
 {"version_code":452999,"content":"
-<p>تحديث|Update 1.10</p>
+<p>تحديث|Update 1.20</p>
 
 
 <li>نسخة ضد الحظر ان شاء الله</li>
