@@ -1,10 +1,9 @@
 {"version_code":452991,"content":"
-<p> تحديث | Update 1.30</p>
+<p>تحديث | Update 1.30</p>
 
 <li>عزيزي قبل تحديث التطبيق أنقر على إعلان من الإعلانات لدعمي ماديا </li>
-
 <li>التحديث لنسخة الماركت  2.19.341  المستقرة</li>
-<li>امكانية معرفة الرسائل المحذوفة في المحادثات، من علامة  (🚫) (ملاحظه: يجب تفعيل خيار "منع حذف الرسائل" )	</li>
+<li>امكانية معرفة الرسائل المحذوفة في المحادثات، من علامة  (🚫) (ملاحظه: يجب تفعيل خيار "منع حذف الرسائل" )</li>
 <li>إعدادات الخصوصية الجديدة للمجموعات (الإعدادات > الحساب > الخصوصية > المجموعات)</li>
 <li>تحسينات على خيارات الخصوصية</li>
 <li>تفعيل كافة الميزات التجريبية لشركة الواتساب</li>
@@ -16,16 +15,15 @@
 <li>Dear user ,
 Before download update please click on ads to support me
 Thx you</li>
-
-<li> New Base Updated to 2.19.341 Stable Base</li>
-<li> Know which new messages are deleted in chat (🚫) (Note: Anti-Delete Messages must be activated)</li>
-<li> New Privacy Settings for Groups (Settings > Account > Privacy > Groups)</li>
-<li> Added option to share WhatsApp X Edition with your friends..</li>
-<li> Improved Privacy Settings</li>
-<li> Enabled All hidden features..</li>
-<li> Fixed Hide View Status </li>
-<li> Fixed Don't stop audio option</li>
-<li> Other Fixes...</li>
+<li>New Base Updated to 2.19.341 Stable Base</li>
+<li>Know which new messages are deleted in chat (🚫) (Note: Anti-Delete Messages must be activated)</li>
+<li>New Privacy Settings for Groups (Settings > Account > Privacy > Groups)</li>
+<li>Added option to share WhatsApp X Edition with your friends..</li>
+<li>Improved Privacy Settings</li>
+<li>Enabled All hidden features..</li>
+<li>Fixed Hide View Status </li>
+<li>Fixed Don't stop audio option</li>
+<li>Other Fixes...</li>
 
 
 
