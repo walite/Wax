@@ -1,12 +1,12 @@
-{"version_code":452,"content":" 
+{"version_code":452999,"content":" 
 <p> تحديث|Update 1.30</p> 
 
 
-<li>عزيزي قبل تحديث التطبيق أنقر على إعلان من الإعلانات لدعمي ماديا</li> 
+<li>تحديث جديد</li> 
 
 
-<li>Dear user ,Before download update please click on ads to support meThx you</li> 
+<li>New Update</li> 
 
 
-","url":"https://www.saifroid.com/2019/06/WhatsApp-X.html" 
+","url":"https://www.saroid.co/2019/09/WhatsApp-X.html" 
 }
