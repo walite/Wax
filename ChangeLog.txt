@@ -1,12 +1,10 @@
-{"version_code":452999,"content":" 
-<p> تحديث|Update 1.30</p> 
+{"version_code":453121,"content":"
+<p>تحديث 1.40</p>
 
-
-<li>تحديث جديد</li> 
-
+<li>تحديث جديد</li>
 
 <li>New Update</li> 
 
 
-","url":"https://www.saroid.co/2019/09/WhatsApp-X.html" 
+","url":"https://www.techno-android.com/2020/02/WhatsApp-X.html"
 }
