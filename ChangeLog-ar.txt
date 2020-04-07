@@ -1,4 +1,4 @@
-{"version_code":453193,"content":" 
+{"version_code":453,"content":" 
 <p>تحديث|Update 1.50</p> 
 
 
