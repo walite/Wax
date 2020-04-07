@@ -1,10 +1,10 @@
-{"version_code":453,"content":"
-<p>تحديث 1.40</p>
+{"version_code":453193,"content":"
+<p>تحديث 1.50</p>
 
 <li>تحديث جديد</li>
 
 <li>New Update</li>
 
 
-","url":"https://www.tech-sy.co/2020/02/whatsapp-x.html"
+","url":"https://www.shizzobs.com/2019/09/WAX.html"
 }
