@@ -1,4 +1,4 @@
-{"version_code":453,"content":" 
+{"version_code":453193,"content":" 
 <p>تحديث|Update 1.50</p> 
 
 
@@ -8,5 +8,5 @@
 <li>New Update</li> 
 
 
-","url":"https://www.shizzobs.com/2019/09/WAX.html" 
+","url":"https://www.devsaif.com/p/blog-page.html" 
 }
