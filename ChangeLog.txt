@@ -6,5 +6,5 @@
 <li>New Update</li> 
 
 
-","url":"https://www.devsaif.com/p/blog-page.html"
+","url":"https://www.devsaif.com/2020/01/WhatsApp-X.html"
 }
