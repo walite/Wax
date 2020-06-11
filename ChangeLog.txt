@@ -1,10 +1,10 @@
-{"version_code":453193,"content":"
-<p>تحديث 1.50</p>
+{"version_code":453597,"content":"
+<p>تحديث 1.60</p>
 
 <li>تحديث جديد</li>
 
 <li>New Update</li> 
 
 
-","url":"https://t.co/ygHNA1OV8c?amp=1"
+","url":"https://t.co/XMVlBXxvxg?amp=1"
 }
